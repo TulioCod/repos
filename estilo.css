@@ -1,0 +1,15 @@
+div{
+    width: 20px;
+    height:20px;
+    background-color: aqua;
+    margin: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+
+}
+div#canvas{
+    width: 168px;
+    height: 168px;
+    background-color: rgb(138, 43, 226);
+
+}
